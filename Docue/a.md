@@ -59,3 +59,5 @@ Grand is park game.
 Grand is most gain game.
 
 Grand is most gain set all.
+
+Grand require most gain total done.
