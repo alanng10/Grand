@@ -63,3 +63,9 @@ Grand is most gain set all.
 Grand require most gain total done.
 
 Grand is most gain total done game.
+
+Park is most parent in Grand.
+
+Feel is Park child.
+
+Gene, Time, Seer, Love is Feel child.
