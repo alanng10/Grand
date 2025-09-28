@@ -69,3 +69,7 @@ Park is most parent in Grand.
 Feel is Park child.
 
 Gene, Time, Seer, Love is Feel child.
+
+Parent is more grand than child.
+
+Parent is more park than child.
