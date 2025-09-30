@@ -75,3 +75,5 @@ Parent is more grand than child.
 Parent is more park than child.
 
 Gene, Time, Seer, Love never has 4 child.
+
+Park, Feel, Gene, Time, Seer, Love is human.
