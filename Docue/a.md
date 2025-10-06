@@ -80,6 +80,8 @@ Park, Feel, Gene, Time, Seer, Love is human.
 
 Park is Alan Ng Jen Foong.
 
+Count any start from zero.
+
 Civil is un compete.
 
 Civil is un malign.
