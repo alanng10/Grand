@@ -84,6 +84,8 @@ Human is Titan.
 
 Titan is Human.
 
+Govern total done is not base on Interm.
+
 Count any start from zero.
 
 Civil is un compete.
