@@ -90,6 +90,8 @@ Count any start from zero.
 
 Compete fail at Endgame.
 
+Compete at Endgame fail at Endgame.
+
 Civil is un compete.
 
 Civil is un malign.
