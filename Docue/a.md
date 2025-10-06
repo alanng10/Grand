@@ -88,6 +88,8 @@ Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
 
+Govern total done is gain share.
+
 Count any start from zero.
 
 Compete fail at Endgame.
