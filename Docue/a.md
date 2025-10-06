@@ -88,6 +88,8 @@ Govern total done is not base on Interm.
 
 Count any start from zero.
 
+Compete fail at Endgame.
+
 Civil is un compete.
 
 Civil is un malign.
