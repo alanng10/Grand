@@ -82,6 +82,8 @@ Park is Alan Ng Jen Foong.
 
 Human is Titan.
 
+Titan is Human.
+
 Count any start from zero.
 
 Civil is un compete.
