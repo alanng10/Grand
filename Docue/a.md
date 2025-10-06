@@ -86,6 +86,8 @@ Titan is Human.
 
 Govern total done is not base on Interm.
 
+Govern total done is base on gain share xcross.
+
 Count any start from zero.
 
 Compete fail at Endgame.
