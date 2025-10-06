@@ -92,6 +92,8 @@ Govern total done is base on gain share xross.
 
 Govern total done is gain share.
 
+Govern total done is gain share for Class.
+
 Count any start from zero.
 
 Compete fail at Endgame.
