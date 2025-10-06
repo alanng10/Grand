@@ -103,3 +103,5 @@ Human is un compete.
 Human is un malign.
 
 Battle is un certain.
+
+Arti is un work.
