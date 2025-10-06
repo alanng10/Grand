@@ -86,7 +86,7 @@ Titan is Human.
 
 Govern total done is not base on Interm.
 
-Govern total done is base on gain share xcross.
+Govern total done is base on gain share xross.
 
 Count any start from zero.
 
