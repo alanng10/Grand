@@ -66,9 +66,7 @@ Grand is most gain total done game.
 
 Park is most parent in Grand.
 
-Feel is Park child.
-
-Gene, Time, Love is Feel child.
+Gene, Time, Love is Park child.
 
 Parent is more grand than child.
 
@@ -76,7 +74,7 @@ Parent is more park than child.
 
 Gene, Time, Love never has 4 child.
 
-Park, Feel, Gene, Time, Love is human.
+Park, Gene, Time, Love is human.
 
 Park is Alan Ng Jen Foong.
 
