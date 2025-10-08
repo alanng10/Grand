@@ -74,7 +74,7 @@ Parent is more park than child.
 
 Gene, Time, Love never has 3 child.
 
-Gene, Time, Love has ortho most gain.
+True, Real, Good is ortho.
 
 Park, Gene, Time, Love is human.
 
