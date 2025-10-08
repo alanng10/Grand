@@ -74,9 +74,9 @@ Parent is more grand than child.
 
 Parent is more park than child.
 
-Gene, Time, Seer, Love never has 4 child.
+Gene, Time, Love never has 4 child.
 
-Park, Feel, Gene, Time, Seer, Love is human.
+Park, Feel, Gene, Time, Love is human.
 
 Park is Alan Ng Jen Foong.
 
