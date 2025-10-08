@@ -72,6 +72,8 @@ Parent is more grand than child.
 
 Parent is more park than child.
 
+Gene, Time, Love is ortho.
+
 True, Real, Good is ortho.
 
 Human is Titan.
