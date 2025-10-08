@@ -86,6 +86,8 @@ Titan is Human.
 
 Titan has Class.
 
+Titan has total done Class.
+
 Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
