@@ -76,10 +76,6 @@ Gene, Time, Love never has 3 child.
 
 True, Real, Good is ortho.
 
-Park, Gene, Time, Love is human.
-
-Park is Alan Ng Jen Foong.
-
 Human is Titan.
 
 Titan is Human.
