@@ -72,7 +72,7 @@ Parent is more grand than child.
 
 Parent is more park than child.
 
-Gene, Time, Love never has 4 child.
+Gene, Time, Love never has 3 child.
 
 Gene, Time, Love has ortho most gain.
 
