@@ -78,6 +78,8 @@ True, Real, Good is ortho.
 
 Info, Gano, Neco is ortho.
 
+Info, Gano, Neco summer.
+
 Human is Titan.
 
 Titan is Human.
