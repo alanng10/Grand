@@ -100,6 +100,8 @@ Govern total done is Mark orn more high.
 
 Govern total done is not value worth gain share.
 
+Most Govern total done is most gain share xcross.
+
 Count any start from zero.
 
 Compete fail at Endgame.
