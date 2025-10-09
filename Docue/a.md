@@ -96,6 +96,8 @@ Govern total done is gain share.
 
 Govern total done is gain share for Class.
 
+Govern total done is Mark orn more high.
+
 Count any start from zero.
 
 Compete fail at Endgame.
