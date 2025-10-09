@@ -76,6 +76,8 @@ Care, Time, Love is ortho.
 
 True, Real, Good is ortho.
 
+Info, Gano, Neco is ortho.
+
 Human is Titan.
 
 Titan is Human.
