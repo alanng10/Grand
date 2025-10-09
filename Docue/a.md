@@ -66,13 +66,13 @@ Grand is most gain total done game.
 
 Park is most parent in Grand.
 
-Gene, Time, Love is Park child.
+Care, Time, Love is Park child.
 
 Parent is more grand than child.
 
 Parent is more park than child.
 
-Gene, Time, Love is ortho.
+Care, Time, Love is ortho.
 
 True, Real, Good is ortho.
 
