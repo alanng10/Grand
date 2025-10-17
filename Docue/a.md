@@ -108,6 +108,8 @@ Compete fail at Endgame.
 
 Compete at Endgame fail at Endgame.
 
+Malign fail at Endgame.
+
 Civil is un compete.
 
 Civil is un malign.
