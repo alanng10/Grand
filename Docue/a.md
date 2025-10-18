@@ -122,6 +122,8 @@ Case total done is 2^10 revise diff from parent Kind.
 
 Titan got Care, Time, and Love gain by SERA, regard less of he total done.
 
+Root is Alan Ng Jen Foong.
+
 Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
