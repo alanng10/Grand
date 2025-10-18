@@ -104,13 +104,15 @@ Case is Kind child.
 
 Kind has 2^10 child.
 
-Titan is more grand than it child.
+Titan is more grand than he child.
 
-Titan is more park than it child.
+Titan is more park than he child.
 
-Titan total done is more grand than it child total done.
+Titan total done is more grand than he child total done.
 
-Titan total done is more park than it child total done.
+Titan total done is more park than he child total done.
+
+Titan got Care, Time, and Love gain by SERA, regard less of he total done.
 
 Govern total done is not base on Interm.
 
