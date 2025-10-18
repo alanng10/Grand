@@ -112,6 +112,14 @@ Titan total done is more grand than he child total done.
 
 Titan total done is more park than he child total done.
 
+Root total done is PARK.
+
+Seer total done is 2^10 major diff from parent Root.
+
+Kind total done is 2^10 minor diff from parent Seer.
+
+Case total done is 2^10 revise diff from parent Kind.
+
 Titan got Care, Time, and Love gain by SERA, regard less of he total done.
 
 Govern total done is not base on Interm.
