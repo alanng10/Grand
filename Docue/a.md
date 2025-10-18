@@ -114,6 +114,8 @@ Titan total done is more park than he child total done.
 
 Root total done is PARK.
 
+Root total done class is PARK.
+
 Seer total done is 2^10 major diff from parent Root.
 
 Kind total done is 2^10 minor diff from parent Seer.
