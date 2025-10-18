@@ -88,6 +88,22 @@ Titan has Class.
 
 Titan has total done Class.
 
+Titan can is Root, Seer, Kind orn Case.
+
+Root is count 1.
+
+Seer is Root child.
+
+Root has 2^10 child.
+
+Kind is Seer child.
+
+Seer has 2^10 child.
+
+Case is Kind child.
+
+Kind has 2^10 child.
+
 Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
