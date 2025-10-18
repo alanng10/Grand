@@ -118,7 +118,7 @@ Seer total done is 2^10 major diff from parent Root.
 
 Kind total done is 2^10 minor diff from parent Seer.
 
-Case total done is 2^10 revise diff from parent Kind.
+Case total done is 2^10 melor diff from parent Kind.
 
 Titan got Care, Time, and Love gain by SERA, regard less of he total done.
 
