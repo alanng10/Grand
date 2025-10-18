@@ -104,6 +104,14 @@ Case is Kind child.
 
 Kind has 2^10 child.
 
+Titan is more grand than it child.
+
+Titan is more park than it child.
+
+Titan total done is more grand than it child total done.
+
+Titan total done is more park than it child total done.
+
 Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
