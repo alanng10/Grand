@@ -124,7 +124,7 @@ Kind total done is 2^10 minor diff from parent Seer.
 
 Case total done is 2^10 melor diff from parent Kind.
 
-Titan got Care, Time, and Love gain by SERA, regard less of he total done.
+Titan got Care, Time, and Love all gain by SERA, regard less of he total done.
 
 Titan total done progres is certain base line max by SERA.
 
