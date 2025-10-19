@@ -88,6 +88,8 @@ Titan has Class.
 
 Titan has total done Class.
 
+Titan total done Class is same from start till forever.
+
 Titan can is Root, Seer, Kind orn Case.
 
 Root is count 1.
