@@ -134,7 +134,7 @@ Titan more grand start before less grand start.
 
 Titan same tier grand may not start order by diff index.
 
-All Titan did start. 
+All Titan did start.
 
 Govern total done is not base on Interm.
 
