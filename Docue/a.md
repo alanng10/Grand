@@ -130,6 +130,10 @@ Titan total done progres is certain base line max by SERA.
 
 Root is Alan Ng Jen Foong.
 
+Titan more grand start before less grand start.
+
+Titan same tier grand may not start order by diff index.
+
 Govern total done is not base on Interm.
 
 Govern total done is base on gain share xross.
