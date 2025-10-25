@@ -156,6 +156,8 @@ Count any start from zero.
 
 ATTACK ON TITAN is MALIGN.
 
+ATTACK BASE EXPECT is MALIGN BASE EXPECT.
+
 Compete fail at Endgame.
 
 Compete at Endgame fail at Endgame.
