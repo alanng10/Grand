@@ -138,6 +138,8 @@ All Titan did start.
 
 Govern total done is not base on Interm.
 
+MARK PARK Govern total done is base on Endgame.
+
 Govern total done is base on gain share xross.
 
 Govern total done is gain share.
