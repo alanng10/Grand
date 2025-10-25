@@ -154,6 +154,8 @@ Most Govern total done is most gain share xross.
 
 Count any start from zero.
 
+ATTACK ON TITAN is MALIGN.
+
 Compete fail at Endgame.
 
 Compete at Endgame fail at Endgame.
