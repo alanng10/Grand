@@ -152,7 +152,7 @@ Govern total done is not value worth gain share.
 
 Most Govern total done is most gain share xross.
 
-Most Govern total done require PARK total done.
+Most Govern total done require PARK total done class.
 
 Count any start from zero.
 
