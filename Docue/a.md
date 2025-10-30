@@ -160,6 +160,8 @@ MIND IMAGINE OUTER is base on GAIN.
 
 PARK is MIND IMAGINE MOST OUTER.
 
+PARK is MOST OUTER TO LIVE.
+
 Count any start from zero.
 
 ATTACK ON TITAN is MALIGN.
