@@ -158,6 +158,8 @@ MIND IMAGINE is base on GAIN.
 
 MIND IMAGINE OUTER is base on GAIN.
 
+PARK is MIND IMAGINE MOST OUTER.
+
 Count any start from zero.
 
 ATTACK ON TITAN is MALIGN.
