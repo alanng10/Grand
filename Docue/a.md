@@ -156,6 +156,8 @@ Most Govern total done require PARK total done class.
 
 MIND IMAGINE is base on GAIN.
 
+MIND IMAGINE OUTER is base on GAIN.
+
 Count any start from zero.
 
 ATTACK ON TITAN is MALIGN.
