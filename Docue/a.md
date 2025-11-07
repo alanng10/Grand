@@ -136,6 +136,8 @@ Titan same tier grand may not start order by diff index.
 
 All Titan did start.
 
+Titan Value is He Gain To TITAN.
+
 Govern total done is not base on Interm.
 
 MARK PARK Govern total done is base on Endgame.
