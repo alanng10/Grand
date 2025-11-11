@@ -156,6 +156,8 @@ TotalDone MARK MARK MAIN is under GOVERN MAIN.
 
 Titan under Root is TotalDone MARK PARK for 1 Seer and other most high MARK MARK in yea 2025 mon 11 day 11.
 
+Titan under Root is most under WORTH GAIN TIER since yea 2022 mon 8.
+
 Govern total done is Mark orn more high.
 
 Govern total done is not value worth gain share.
